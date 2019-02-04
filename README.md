@@ -1,4 +1,4 @@
-# Quantum Metric Predicate Builder
+# Predicate Builder
 *Chris Klein*
 
 ### Tips
